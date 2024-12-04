@@ -3,8 +3,8 @@
         {
             "domain": "",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "jkd@fga.con",
+                "passwd": "rsdgh",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
